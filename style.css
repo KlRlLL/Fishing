@@ -1,0 +1,94 @@
+/*body{
+margin: 0;
+height: 100%;
+background-color:wait;
+background-image:url(lake.png);
+background-size: 70% 100%;
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:50% 20%;
+}*/
+body{
+margin-top:0px;
+background-color:BlanchedAlmond;
+margin:0 auto;
+background-image:url(lake.png);
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:50% 0%;
+}
+#createBut{
+    width: 75px;
+    height: 75px;
+    margin: 5% 2% 0% 0%;
+    float: left;
+    border-radius: 7px;
+    background: #C87824;
+    font: 107% corbel;
+    border-radius: 15px;
+}
+#createzone {
+    float: left;
+    width: 70%;
+    height: 30%;
+    margin: 5% 14% auto;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 15px;
+    
+}
+.things{
+    width: 100px;
+    height: 70px;
+}
+.all{
+width: 1350px;
+margin:0 auto;
+}
+.Name{
+width: 53%;
+margin:0 auto;
+height:170px;
+opacity: 0.9;
+}
+.game{
+margin:0 auto;
+background:#ffffff;
+width: 80%;
+height:390px;
+opacity: 0.9;
+border-radius: 15px;
+}
+#inventory{    
+    background-color: #FF9800;
+    margin: 5% 2% 0% 19%;
+    float: left;
+    width: 45%;
+    border-radius: 7px;
+    border-radius: 7px;
+}
+.Text
+{
+position:absolute;
+margin-left: 405px;
+width: 310px;
+font: 200% corbel;
+float:right;
+}
+.Text h1{
+background-color: #FF9800;
+	border-radius: 15px;
+}
+#restar-button{    
+    height: 75px;
+    margin: 5% 2% 0% 0%;
+    float: left;
+    border-radius: 7px;
+    background: #C87824;
+    font: 107% corbel;
+    border-radius: 15px
+}
+a{
+        text-decoration: none;
+    color: #DCDCDC;
+}
